@@ -8,13 +8,13 @@ _By Bonieky Lacerda_
 
 ## Área de Destaque
 
-![image1](C:\Users\cat\Desktop\Ap\NETFLIX\image1.png)
+![image1](image1.png)
 
 
 
 ## Lista de Filmes e Séries
 
-![image1](C:\Users\cat\Desktop\Ap\NETFLIX\image2.png)
+![image1](image2.png)
 
 
 
